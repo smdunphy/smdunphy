@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @smdunphy
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data visualization, data analysis tools, and ML techniques.
-- 💞️ I’m looking to collaborate on (still figuring this part out; if it represents a learning opportunity though I'm interested)
 - 📫 How to reach me at my email, seth.m.dunphy@gmail.com
